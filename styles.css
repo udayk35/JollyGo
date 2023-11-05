@@ -1,3 +1,10 @@
+body
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
 #card{
     /* border: 2px solid black; */
     width: 300px;
