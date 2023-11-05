@@ -1,0 +1,53 @@
+#card{
+    /* border: 2px solid black; */
+    width: 300px;
+    height: 350px;
+    text-align: center;
+     margin:20px auto; 
+     padding: 0;
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+     border-radius: 20px;
+     font-family: 'Poppins', sans-serif;
+}
+#sec-1{
+    padding: 10px 10px;
+    border-radius: 20px 20px 0 0;
+    background-color: rgb(71, 133, 250);
+}
+img{
+    height: 140px;
+    border: 2px solid rgb(255, 255, 255); 
+    border-radius: 100%;
+}
+.button{
+    background-color: rgb(49, 111, 228);
+    width: 100px;
+    color: white;
+    border: none;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+h2,h3{
+    margin: 0;
+}
+.fa-twitter{
+    color: rgb(80, 135, 236);
+}
+.fa-linkedin{
+    color: blue;
+}
+.fa-instagram{
+    color: rgb(236, 80, 166);
+}
+.fa-discord{
+    color: rgb(114, 48, 238);
+}
+i{
+    padding: 5px;
+    border-radius: 100%;
+    width: 10px;
+}
+.pad{
+    padding: 10px 10px;
+}
